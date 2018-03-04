@@ -3,9 +3,13 @@ header {
   height: auto; }
   header nav {
     width: 80%;
-    height: 200px;
+    height: 100px;
     background-color: yellowgreen;
     margin: 0 auto; }
+  header .header-background {
+    background-color: yellow;
+    width: 100%;
+    height: 500px; }
 
 body {
   background-color: lightgray; }
